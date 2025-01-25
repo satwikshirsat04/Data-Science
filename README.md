@@ -1,2 +1,2 @@
 # Data-Science Practical Skills
-1. Mean Median Mode
+1. Mean Median Mode (Central Tendency)
